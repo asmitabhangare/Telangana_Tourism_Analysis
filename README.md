@@ -20,3 +20,10 @@ Using DAX queries, we can efficiently manipulate and analyze data to generate in
 + Include a Year column as a slicer to enable filtering by specific years. Add informative KPIs to highlight key metrics and trends.
 - Use bar charts, column charts, cards, line charts, and donut charts to visualize different aspects of the data, ensuring each visualization serves a clear purpose.
 * Add buttons for easy navigation within the dashboard, allowing users to move between different sections or views seamlessly.
+
+# Conclusion
+Based on the analysis, it is evident that Hyderabad was the most visited district in Telangana, followed by Rajanna Sircilla, Warangal (Urban), Yadadri Bhongir, and Bhadradri Kothagudem. The Compound Annual Growth Rate (CAGR) indicates that Mancherial, Warangal (Rural), and Bhadradri Kothagudem are performing well. However, Warangal (Urban), Nalgonda, and Karimnagar require attention as they are underperforming.
+
+Our observations also highlight that June, December, and October are peak tourist seasons in Hyderabad, while February, March, and September are considered low seasons. This trend aligns with seasonal vacations and festivals—June and December being vacation periods, October corresponding with Dussehra, and January with Pongal/Sankranti.
+
+Furthermore, the analysis reveals that 20 districts have a low Domestic/Foreign (D/F) visitor ratio (refer to the reference page for more details). To increase foreign visitors to these areas, targeted advertising should be employed to promote the significance of these tourist destinations. Additionally, enhancing essential services such as lodging, boarding, and transportation is crucial. These measures will help improve the tourist footfall ratio across the state.
