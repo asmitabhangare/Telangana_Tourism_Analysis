@@ -1,6 +1,11 @@
 # Telangana_Tourism_Analysis
 The aim of the Telangana Tourism Department Analysis is to provide insights into strategies for increasing revenue and achieving organizational goals. The objective is to monitor the number of visitors to tourist destinations in Telangana. Several reports have been created that offer information on various factors, which will help the organization identify the actions needed to boost revenue by attracting more visitors.
 
+# Dataset Link
+Incorporating real-time data from the Telangana official website into the analysis allows for a more accurate and up-to-date understanding of tourism trends.
+https://data.telangana.gov.in/dataset/tourism-domestic-visitors-data
+https://www.indiacensus.net/states/telangana
+
 # Data Cleaning using Power Query
 + Import the data from the specified folder into Power Query.
 - Create a custom column named Type in the Domestic Visitors table and assign the value Domestic to it.
